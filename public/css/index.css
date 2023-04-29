@@ -130,7 +130,7 @@
 
 /* Завдання №20. При валідації форми з помилкою, змінюйте колір фону на червоний. */
 
-.lesson-four-task-twenty input:invalid {
+.lesson-four-task-twenty input:invalid:focus {
     background-color: red;
 }
 
